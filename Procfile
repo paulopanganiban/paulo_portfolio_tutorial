@@ -1,0 +1,1 @@
+web: gunicorn paulo_portfolio.wsgi --log-file -
